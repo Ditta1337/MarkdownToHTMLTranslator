@@ -1,5 +1,7 @@
-Zagnieżdżone tabele:
+Zagnieżdżone listy:
 
-| Tabela 1 | Tabela 2 |
-|----------|----------|
-| Wiersz 1 | Wiersz 2 |
+- Pierwszy poziom
+    1. Drugi poziom
+    2. Drugi poziom
+        - Trzeci poziom
+        - Trzeci poziom
