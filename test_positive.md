@@ -4,7 +4,7 @@ To jest przykład dokumentu **Markdown**, który zawiera różne elementy.
 
 ## Pogrubiony i Kursywa
 
-Możesz tworzyć **pogrubiony** tekst i *kursywę* używając składni Markdown.
+Możesz tworzyć **pogrubiony** tekst, *kursywę* oraz ***pogrubioną kursywę*** używając składni Markdown.
 
 ### Listy
 
@@ -22,17 +22,18 @@ A oto lista uporządkowana:
 
 ### Linki i Obrazy
 
-Możesz także dodawać linki:
+Możemy także dodawać linki:
+
 
 [Wikipedia](https://www.wikipedia.org)
 
 I obrazy:
 
-![Logo Wikipedii](https://en.wikipedia.org/favicon.ico)
+![AGH](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTObLqaIn0Pu67PBoHizlrVJSHYUktOxJUJdw&s)
 
 ### Bloki Kodów
 
 ```
-def hello_world():
-    print("Hello, world!")
+def hello():
+    print("Hello, World!")
 ```
